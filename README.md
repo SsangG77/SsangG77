@@ -3,13 +3,15 @@
 <br>
 
 <h3 align="center">
-디자인에 관심이 많고, 다양한 아이디어를 코드로 구현하는 iOS 개발자입니다.
+디자인에 관심이 많고, 다양한 아이디를 코드로 구현하는 iOS 개발자입니다.
 </h3>
   
 <p align="center">
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-9A41F4?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NodeJS-4DAF50?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F8E017?style=flat-square&logo=javascript&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
