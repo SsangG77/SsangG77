@@ -26,8 +26,8 @@
 
 ![Sangjin's github most Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SsangG77&layout=compact&theme=tokyonight)  
 
-1[](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SsangG77&theme=default)
-1[](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SsangG77&theme=default)
+![Top language by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SsangG77&theme=default)
+![Top language by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SsangG77&theme=default)
 
 
 <!--[![Jeasung's github stats](https://github-readme-stats.vercel.app/api?username=SsangG77)](https://github.com/anuraghazra/github-readme-stats)-->
