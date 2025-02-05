@@ -23,9 +23,12 @@
 - Portfolio: https://sssangg719.notion.site/e9a98049efe7448ebabd2e999495afbc
 - GitHub: https://github.com/SsangG77
 
-<div align="center">
+
 ![Sangjin's github most Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SsangG77&layout=compact&theme=tokyonight)  
-</div>
+
+1[](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SsangG77&theme=default)
+1[](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SsangG77&theme=default)
+
 
 <!--[![Jeasung's github stats](https://github-readme-stats.vercel.app/api?username=SsangG77)](https://github.com/anuraghazra/github-readme-stats)-->
 
