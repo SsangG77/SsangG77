@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=1&height=300&section=header&text=차상진&fontSize=90&animation=twinkling&fontAlignY=90&descAlignY=70)
-
-<br>
-
 <h3 align="center">
 디자인에 관심이 많고, 다양한 아이디어를 코드로 구현하는 iOS 개발자입니다.
 </h3>
@@ -18,11 +14,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 </p>
-
-- Email: sangjincha719@gmail.com
-- Portfolio: https://sssangg719.notion.site/e9a98049efe7448ebabd2e999495afbc
-- GitHub: https://github.com/SsangG77
-
 
 ![Top language by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SsangG77&theme=tokyonight)
 ![Top language by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SsangG77&theme=tokyonight)
