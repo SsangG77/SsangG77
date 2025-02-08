@@ -3,8 +3,9 @@
 </h3>
   
 <p align="center">
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NodeJS-4DAF50?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F8E017?style=flat-square&logo=javascript&logoColor=white"/></a>
 <br>
