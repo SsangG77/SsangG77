@@ -13,10 +13,11 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 </p>
+[![Jeasung's github stats](https://github-readme-stats.vercel.app/api?username=SsangG77)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [Top language by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SsangG77&theme=tokyonight)
 ![Top language by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SsangG77&theme=tokyonight)
 
 [![Jeasung's github stats](https://github-readme-stats.vercel.app/api?username=SsangG77)](https://github.com/anuraghazra/github-readme-stats)
---!>
+
