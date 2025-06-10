@@ -3,8 +3,11 @@
 </h3>
   
 <p align="center">
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> -->
+<!-- <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a> -->
+  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/UIKit-FFFFFF?style=flat-square&logo=Swift&logoColor=orange"/></a>
+  <img src="https://img.shields.io/badge/RxSwift-FF4CB3?style=flat-square&logo=reactivex&logoColor=pink"/></a>
 <br>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
