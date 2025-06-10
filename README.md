@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/RxSwift-FF4CB3?style=flat-square&logo=reactivex&logoColor=pink"/></a>
 <br>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Figma-A259FF?style=flat-square&logo=Figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 </p>
