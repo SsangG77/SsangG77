@@ -25,6 +25,7 @@
 <p align="center">
   <a href="https://apps.apple.com/app/id123">
       <img width="100" alt="Image" src="https://github.com/user-attachments/assets/8212642f-e9bf-4b90-9ef3-89bde7b6c946" />
+      <sub>앱이름1</sub>
   </a>
   
   <a href="https://apps.apple.com/app/id456">
@@ -32,9 +33,6 @@
   </a>
   
   <a href="https://apps.apple.com/app/id789">
-    <div align="center">
       <img width="100" alt="Image" src="https://github.com/user-attachments/assets/8212642f-e9bf-4b90-9ef3-89bde7b6c946" />
-      <sub>앱 이름 3</sub>
-    </div>
   </a>
 </p>
