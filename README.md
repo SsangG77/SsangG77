@@ -22,18 +22,14 @@
 
 [![Jeasung's github stats](https://github-readme-stats.vercel.app/api?username=SsangG77)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
 <div align="center">
-  <div style="display: inline-block; text-align: center; margin: 20px;">
-    <img src="이미지1.png" width="100" height="100"><br>
-    <strong>앱 이름 1</strong>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 20px;">
-    <img src="이미지2.png" width="100" height="100"><br>
-    <strong>앱 이름 2</strong>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 20px;">
-    <img src="이미지3.png" width="100" height="100"><br>
-    <strong>앱 이름 3</strong>
-  </div>
+<div style="display:inline-block; margin:10px; text-align:center;">
+<img src="이미지1.png" width="100"><br><strong>앱 이름 1</strong>
+</div><!--
+--><div style="display:inline-block; margin:10px; text-align:center;">
+<img src="이미지2.png" width="100"><br><strong>앱 이름 2</strong>
+</div><!--
+--><div style="display:inline-block; margin:10px; text-align:center;">
+<img src="이미지3.png" width="100"><br><strong>앱 이름 3</strong>
+</div>
 </div>
