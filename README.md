@@ -26,7 +26,13 @@
 
 
 <p align="center">
-<a href="https://apps.apple.com/app/id123">
+  <a href="https://apps.apple.com/app/id123">
+      <img width="100" alt="Image" src="https://github.com/user-attachments/assets/8212642f-e9bf-4b90-9ef3-89bde7b6c946" />
+  </a>
+  <br>
+  <sub>앱이름1</sub>
+
+   <a href="https://apps.apple.com/app/id123">
       <img width="100" alt="Image" src="https://github.com/user-attachments/assets/8212642f-e9bf-4b90-9ef3-89bde7b6c946" />
   </a>
   <br>
