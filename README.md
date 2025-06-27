@@ -29,16 +29,18 @@
 
 
 <div align="center">
-<div style="display:inline-block;text-align:center;margin:20px;">
+<samp>
 <img src="이미지1.png" width="100" height="100"><br>
 <b>앱 이름 1</b>
-</div>
-<div style="display:inline-block;text-align:center;margin:20px;">
+</samp>
+&nbsp;&nbsp;&nbsp;
+<samp>
 <img src="이미지2.png" width="100" height="100"><br>
 <b>앱 이름 2</b>
-</div>
-<div style="display:inline-block;text-align:center;margin:20px;">
+</samp>
+&nbsp;&nbsp;&nbsp;
+<samp>
 <img src="이미지3.png" width="100" height="100"><br>
 <b>앱 이름 3</b>
-</div>
+</samp>
 </div>
