@@ -24,16 +24,20 @@
 -->
 
 <div align="center">
-  <div style="display: inline-block; text-align: center; margin: 0 20px; vertical-align: top;">
-    <img src="이미지1.png" width="100" height="100"><br>
-    <strong>앱 이름 1</strong>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 0 20px; vertical-align: top;">
-    <img src="이미지2.png" width="100" height="100"><br>
-    <strong>앱 이름 2</strong>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 0 20px; vertical-align: top;">
-    <img src="이미지3.png" width="100" height="100"><br>
-    <strong>앱 이름 3</strong>
-  </div>
+<table style="border: 0; border-collapse: collapse; border-spacing: 0; outline: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; border-width: 0; padding: 15px;">
+      <img src="이미지1.png" width="100" height="100"><br>
+      <strong>앱 이름 1</strong>
+    </td>
+    <td align="center" style="border: none; border-width: 0; padding: 15px;">
+      <img src="이미지2.png" width="100" height="100"><br>
+      <strong>앱 이름 2</strong>
+    </td>
+    <td align="center" style="border: none; border-width: 0; padding: 15px;">
+      <img src="이미지3.png" width="100" height="100"><br>
+      <strong>앱 이름 3</strong>
+    </td>
+  </tr>
+</table>
 </div>
