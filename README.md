@@ -23,7 +23,7 @@
 [![Jeasung's github stats](https://github-readme-stats.vercel.app/api?username=SsangG77)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<p align="center">
+<p>
   <p align="center">
   <a href="https://apps.apple.com/app/id123">
       <img width="100" alt="Image" src="https://github.com/user-attachments/assets/8212642f-e9bf-4b90-9ef3-89bde7b6c946" />
@@ -31,8 +31,6 @@
   <br>
   <sub>앱이름1</sub>
 </p>
-
-<br>
 
 <p align="center">
   <a href="https://apps.apple.com/app/id123">
