@@ -28,17 +28,11 @@
 <kbd><img src="이미지1.png" width="100"><br>앱 이름 1</kbd> <kbd><img src="이미지2.png" width="100"><br>앱 이름 2</kbd> <kbd><img src="이미지3.png" width="100"><br>앱 이름 3</kbd>
 
 
+
 <div align="center">
-<pre>
-<img src="이미지1.png" width="100" height="100">
-<b>앱 이름 1</b>
-</pre>
-<pre>
-<img src="이미지2.png" width="100" height="100">
-<b>앱 이름 2</b>
-</pre>
-<pre>
-<img src="이미지3.png" width="100" height="100">
-<b>앱 이름 3</b>
-</pre>
+
+|   |   |   |
+|---|---|---|
+| <img src="이미지1.png" width="100"><br>**앱 이름 1** | <img src="이미지2.png" width="100"><br>**앱 이름 2** | <img src="이미지3.png" width="100"><br>**앱 이름 3** |
+
 </div>
