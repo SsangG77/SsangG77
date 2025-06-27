@@ -23,17 +23,42 @@
 [![Jeasung's github stats](https://github-readme-stats.vercel.app/api?username=SsangG77)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+
   <a href="https://apps.apple.com/app/id123">
       <img width="100" alt="Image" src="https://github.com/user-attachments/assets/8212642f-e9bf-4b90-9ef3-89bde7b6c946" />
-      <sub>앱이름1</sub>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  
   <a href="https://apps.apple.com/app/id456">
       <img width="100" alt="Image" src="https://github.com/user-attachments/assets/8212642f-e9bf-4b90-9ef3-89bde7b6c946" />
-      <sub>앱이름1</sub>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  
   <a href="https://apps.apple.com/app/id789">
       <img width="100" alt="Image" src="https://github.com/user-attachments/assets/8212642f-e9bf-4b90-9ef3-89bde7b6c946" />
   </a>
+
+
+
+  <table>
+  <tr>
+    <td align="center">
+      <a href="https://apps.apple.com/app/id1">
+        <img src="https://example.com/image1.png" width="150"/><br/>
+        <sub>앱이름1</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/app/id2">
+        <img src="https://example.com/image2.png" width="150"/><br/>
+        <sub>앱이름2</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/app/id3">
+        <img src="https://example.com/image3.png" width="150"/><br/>
+        <sub>앱이름3</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
