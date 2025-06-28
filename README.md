@@ -25,29 +25,14 @@
 
 
 
-<div align="center">
-  <kbd>
-    <img src="https://github.com/user-attachments/assets/3aa31039-5500-4113-96e7-e394e434e389" width="100">
-    <br>
-    Notion-Mind
-  </kbd> 
-  <kbd>
-    <img src="이미지2.png" width="100">
-    <br>
-    앱 이름 2
-  </kbd> 
-  <kbd>
-    <img src="이미지3.png" width="100">
-    <br>
-    앱 이름 3
-  </kbd>
-
-</div>
-
-<p>
-  <img src="https://github.com/user-attachments/assets/3aa31039-5500-4113-96e7-e394e434e389" width="100">
-  <img src="https://github.com/user-attachments/assets/3aa31039-5500-4113-96e7-e394e434e389" width="100">
-  <img src="https://github.com/user-attachments/assets/3aa31039-5500-4113-96e7-e394e434e389" width="100">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a2ed0791-1f11-47c1-b131-e38339431954">
+  <img src="https://github.com/user-attachments/assets/1070355f-ca46-4dff-805f-99a2ce5297ce">
+  <img src="https://github.com/user-attachments/assets/60212de4-bded-4965-a597-0e525a26ad23">
+  <img src="https://github.com/user-attachments/assets/4057723e-97bb-44f6-8dac-38e4e95f4d81">
+  <img src="https://github.com/user-attachments/assets/2f4605af-6d01-4723-8b04-dd49519b07f5">
+  <img src="https://github.com/user-attachments/assets/684d1b42-53b5-4fa2-901a-97fff2c8a2c4">
+  <img src="https://github.com/user-attachments/assets/533f71d3-74b2-4cf0-b55d-85c7194f6253">
 </p>
 
 
