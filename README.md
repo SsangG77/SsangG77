@@ -25,17 +25,27 @@
 
 
 
-
-
-
-
 <div align="center">
   <kbd>
-    <img src="이미지1.png" width="100">
+    <img src="https://github.com/user-attachments/assets/3aa31039-5500-4113-96e7-e394e434e389" width="100">
     <br>
-    앱 이름 1
+    Notion-Mind
   </kbd> 
-  <kbd><img src="이미지2.png" width="100"><br>앱 이름 2</kbd> <kbd><img src="이미지3.png" width="100"><br>앱 이름 3
-</kbd>
+  <kbd>
+    <img src="이미지2.png" width="100">
+    <br>
+    앱 이름 2
+  </kbd> 
+  <kbd>
+    <img src="이미지3.png" width="100">
+    <br>
+    앱 이름 3
+  </kbd>
 
 </div>
+
+
+
+
+
+
