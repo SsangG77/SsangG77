@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <a>
+  <a href="https://apps.apple.com/us/app/notion-mind/id6744064353">
     <img src="https://github.com/user-attachments/assets/a2ed0791-1f11-47c1-b131-e38339431954" width="180">
   </a>
   &nbsp;&nbsp;&nbsp;
