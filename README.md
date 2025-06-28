@@ -27,10 +27,10 @@
 
 <p align="center">
   <a>
-    <img src="https://github.com/user-attachments/assets/a2ed0791-1f11-47c1-b131-e38339431954">
+    <img src="https://github.com/user-attachments/assets/a2ed0791-1f11-47c1-b131-e38339431954" width="200">
   </a>
   <a>
-    <img src="https://github.com/user-attachments/assets/1070355f-ca46-4dff-805f-99a2ce5297ce">
+    <img src="https://github.com/user-attachments/assets/1070355f-ca46-4dff-805f-99a2ce5297ce" width="200">
   </a>
   <a>
     <img src="https://github.com/user-attachments/assets/60212de4-bded-4965-a597-0e525a26ad23">
